@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.Form1.resources
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.csproj.GenerateResource.cache
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.AssemblyInfo.cs
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\chris\chris\bin\Debug\net8.0-windows\chris.exe
+C:\Users\user\Desktop\chris\chris\bin\Debug\net8.0-windows\chris.deps.json
+C:\Users\user\Desktop\chris\chris\bin\Debug\net8.0-windows\chris.runtimeconfig.json
+C:\Users\user\Desktop\chris\chris\bin\Debug\net8.0-windows\chris.dll
+C:\Users\user\Desktop\chris\chris\bin\Debug\net8.0-windows\chris.pdb
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.dll
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\refint\chris.dll
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.pdb
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.genruntimeconfig.cache
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\ref\chris.dll
+C:\Users\user\Desktop\chris\chris\obj\Debug\net8.0-windows\chris.Properties.Resources.resources
