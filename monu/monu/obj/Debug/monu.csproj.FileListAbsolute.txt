@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\monu\monu\bin\Debug\monu.exe.config
+C:\Users\user\Desktop\monu\monu\bin\Debug\monu.exe
+C:\Users\user\Desktop\monu\monu\bin\Debug\monu.pdb
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.Form1.resources
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.Form2.resources
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.Properties.Resources.resources
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.exe
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.pdb
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.exe.config
+C:\Users\user\Desktop\monu\monu\obj\Debug\monu.Form3.resources
